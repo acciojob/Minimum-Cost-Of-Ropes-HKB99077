@@ -1,4 +1,3 @@
-
 function calculateMinCost() {
   //your code here
 var res = 0;
